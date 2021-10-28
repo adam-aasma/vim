@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/adamaasma/guardarian/exchange-event-handler'
+let g:netrw_dirhist_2='/Users/adamaasma/guardarian/exchange-event-handler/src'
+let g:netrw_dirhist_3='/Users/adamaasma/guardarian/exchange-event-handler'
+let g:netrw_dirhist_4='/Users/adamaasma/guardarian/exchange-event-handler/src'
